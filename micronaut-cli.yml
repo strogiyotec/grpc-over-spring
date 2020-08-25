@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.grpc
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, docker, file-watch, grpc, java, java-application, junit, logback, maven, readme, shade, yaml]
